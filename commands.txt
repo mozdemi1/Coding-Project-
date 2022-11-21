@@ -1,0 +1,2 @@
+Load sample_256.txt
+Quit
